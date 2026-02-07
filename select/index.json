@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "base_track": "カーテンコール",
-  "base_artist": "優里",
-  "createdAt": "2026-01-02T14:51:23.969218Z",
+  "base_track": "カーテンコール - Curtain Call",
+  "base_artist": "Yuuri",
+  "createdAt": "2026-02-07T14:11:18.909905Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -71,42 +71,42 @@
     {
       "id": "lrclib_9",
       "source": "lrclib",
-      "title": "yama『カーテンコール』MV",
-      "artist": "yama",
-      "has_synced": true,
-      "path": "select/09_yama『カーテンコール』MV_yama.lrc"
+      "title": "カーテンコール",
+      "artist": "GLAY",
+      "has_synced": false,
+      "path": "select/09_カーテンコール_GLAY.txt"
     },
     {
       "id": "lrclib_10",
       "source": "lrclib",
       "title": "カーテンコール",
-      "artist": "GLAY",
-      "has_synced": false,
-      "path": "select/10_カーテンコール_GLAY.txt"
+      "artist": "yama",
+      "has_synced": true,
+      "path": "select/10_カーテンコール_yama.lrc"
     },
     {
       "id": "lrclib_11",
       "source": "lrclib",
       "title": "カーテンコール",
-      "artist": "yama",
+      "artist": "優里",
       "has_synced": true,
-      "path": "select/11_カーテンコール_yama.lrc"
+      "path": "select/11_カーテンコール_優里.lrc"
     },
     {
       "id": "lrclib_12",
       "source": "lrclib",
-      "title": "カーテンコール",
-      "artist": "優里",
+      "title": "優里 - カーテンコール(Curtain Call)《我的英雄學院 第七季》OP片頭曲主題曲【中日歌詞】",
+      "artist": "濁音",
       "has_synced": true,
-      "path": "select/12_カーテンコール_優里.lrc"
+      "path": "select/12_優里_-_カーテンコール(Curtain_Call)《我的英雄學院_第七季》OP片頭曲主題曲【中日歌詞】_濁音.lrc"
     },
     {
       "id": "lrclib_13",
       "source": "lrclib",
-      "title": "優里 - カーテンコール(Curtain Call)《我的英雄學院 第七季》OP片頭曲主題曲【中日歌詞】",
-      "artist": "濁音",
+      "title": "yama『カーテンコール』MV",
+      "artist": "yama",
       "has_synced": true,
-      "path": "select/13_優里_-_カーテンコール(Curtain_Call)《我的英雄學院_第七季》OP片頭曲主題曲【中日歌詞】_濁音.lrc"
+      "path": "select/13_yama『カーテンコール』MV_yama.lrc"
     },
     {
       "id": "petitlyrics_1",
@@ -115,6 +115,38 @@
       "artist": "優里",
       "has_synced": false,
       "path": "select/pl_01_カーテンコール_優里.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "カーテンコール",
+      "artist": "優里",
+      "has_synced": false,
+      "path": "select/pl_02_カーテンコール_優里.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "カーテンコール",
+      "artist": "優里",
+      "has_synced": false,
+      "path": "select/pl_03_カーテンコール_優里.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "カーテンコール",
+      "artist": "優里",
+      "has_synced": false,
+      "path": "select/pl_04_カーテンコール_優里.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "カーテンコール",
+      "artist": "優里",
+      "has_synced": false,
+      "path": "select/pl_05_カーテンコール_優里.txt"
     }
   ]
 }
